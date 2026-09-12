@@ -1,0 +1,6 @@
+cpu16_sim
+*.vcd
+*.log
+*.out
+*.swp
+*~
